@@ -1,0 +1,50 @@
+#profilePicCorner {
+	height: 64px;
+}
+
+.section {
+	z-index: 1001;
+}
+
+#testDiv {
+	background-color: yellow;
+	width: 100%;
+}
+
+.connectImage {
+	width: 400px;
+	height: 400px;
+}
+
+.connectLogo {
+	margin-top: 5%;
+    width: 80px;
+    height: 40px;
+}
+
+.collapsible-header {
+	margin-top: 5%;
+}
+
+.page-footer {
+	padding-top: 0px;
+	margin-top: 5%;
+}
+
+#titleText {
+	font-size: 32px;
+}
+
+.collection-header {
+	margin-top: 5%;
+}
+body {
+	background-image: url("spiration dark.png");
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.carousel .carousel-item {
+width:400px !important;}
+
